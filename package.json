@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://endjuser.github.io/vpw"
+    "homepage": "https://endjuser.github.io/vpw",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
